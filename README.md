@@ -13,7 +13,7 @@ Desarrolla una página web usando HTML y CSS que permita a los usuarios suscribi
 
 -- Adicional --
 
-Se agrego un poco de JavaScript al documento index.html para validar la información ingresada al formulario a través de los inputs.
+Se agrego un poco de JavaScript al documento "index.html" para validar la información ingresada al formulario a través de los inputs.
 
 ---
 
@@ -25,10 +25,10 @@ Se agrego un poco de JavaScript al documento index.html para validar la informac
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
+Repositorio en GitHub: [https://github.com/AngelGab1012/Newsletter_ProgramacionWeb]  
+Deploy: [LINK](https://angelgab1012.github.io/Newsletter_ProgramacionWeb/)
 ---
 
 ## 📝 Reflexión
 
-En esta actividad reforcé mis conocimientos para utilizar el elemento <form>.
+En esta actividad reforcé mis conocimientos para utilizar el elemento "form".
